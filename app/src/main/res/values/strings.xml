@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tipping payment</string>
+    <string name="amount">Amount</string>
+    <string name="ten">10%</string>
+    <string name="fifteen">15%</string>
+    <string name="twenty">20%</string>
+    <string name="percent">5%</string>
+    <string name="custom_tip_percentage">Custom %</string>
+    <string name="tip">Tip</string>
+    <string name="total">Total</string>
+</resources>

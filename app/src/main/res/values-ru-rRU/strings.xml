@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Расчёт чаевых</string>
+    <string name="amount">Сумма</string>
+    <string name="ten">10%</string>
+    <string name="fifteen">15%</string>
+    <string name="twenty">20%</string>
+    <string name="percent">5%</string>
+    <string name="custom_tip_percentage">Ручной %</string>
+    <string name="tip">Чаевые</string>
+    <string name="total">Общая сумма</string>
+</resources>
